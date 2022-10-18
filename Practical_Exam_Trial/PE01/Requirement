@@ -1,7 +1,8 @@
 Practical Exam: CSD203
 ### PetManagement ###
 
-Assume that we want to build an application that manages a list of birds. Each bird has nickname (string), age (integer), and weight (float). Students are required to build the application supporting functions below:
+Assume that we want to build an application that manages a list of birds. Each bird has nickname (string), age (integer), and weight (float).
+Students are required to build the application supporting functions below:
 
 Tasks	Requirements	
 1.	Add a new bird to the list (duplicate nickname is not allowed)	
