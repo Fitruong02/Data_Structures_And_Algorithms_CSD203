@@ -1,4 +1,4 @@
-Practical Exam: CSD203
+# Practical Exam: CSD203
  You are required to build a suitable data structure to implement a student management program. The information of students to manage 
  includes student id, student names, address and score. The management program consists of the following essential functions:
     1. Add new students to the list of existing students (note that the same student id is not allowed): 2 points
