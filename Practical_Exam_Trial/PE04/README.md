@@ -10,6 +10,6 @@
 - Building a student data structure: 1 point
 - Build a data structure to store a list of students based on the following data structures: linked list, stack, queue, tree (choose 1 of these): 1 point
 - Building a management program according to the menu- 1point
-Must:
+## Must:
 - Students are provided with a PE project. And it is mandatory to use the provided project to complete your PE.
 - Students are only allowed to use the pyCharm tool to perform their exams.
