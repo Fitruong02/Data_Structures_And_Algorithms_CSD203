@@ -85,7 +85,7 @@ class BookList:
             temp = temp._next
         print("Search is Fail")
         print(f"Don't have any book's code: {code}")
-        return -1
+        return None
     def get_at(self, index):
         """ Traverse and return the element at the position 'index' the list.
             This method return -1 if e does not exist in the list.
